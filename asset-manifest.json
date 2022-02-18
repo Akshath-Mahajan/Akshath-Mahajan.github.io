@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.78029f78.css",
+    "main.js": "/static/js/main.fa5517ef.js",
+    "static/js/787.736d0d9f.chunk.js": "/static/js/787.736d0d9f.chunk.js",
+    "static/media/maths_specialization.png": "/static/media/maths_specialization.4fe7898150353a129875.png",
+    "static/media/dl_ai_introduction.png": "/static/media/dl_ai_introduction.8cd79112ce50ed4d263d.png",
+    "static/media/greedy.png": "/static/media/greedy.3fe534d522d109f8bbf1.png",
+    "static/media/divide_conquer.png": "/static/media/divide_conquer.dba6560b3b6a9ecb37dd.png",
+    "static/media/algorithms_specialization.png": "/static/media/algorithms_specialization.802f2fb421fe508d3c29.png",
+    "static/media/np_complete.png": "/static/media/np_complete.d5ae51216c9b8dd169d7.png",
+    "static/media/graph_search.png": "/static/media/graph_search.12239d535eab86564963.png",
+    "static/media/ibm_classification.png": "/static/media/ibm_classification.aa406cfbf6ba88fbcb9d.png",
+    "static/media/linear_algebra.png": "/static/media/linear_algebra.f0f153a131572db76ea8.png",
+    "static/media/multivariate_calculus.png": "/static/media/multivariate_calculus.f33043004078c0decf13.png",
+    "static/media/dl_ai_nlp.png": "/static/media/dl_ai_nlp.2a356c0abeb6b00b9c95.png",
+    "static/media/ibm_unsupervised.png": "/static/media/ibm_unsupervised.c2896b4b1e20283c3c1c.png",
+    "static/media/ibm_deeplearning.png": "/static/media/ibm_deeplearning.346bdeabb5ffe6279d04.png",
+    "static/media/dl_ai_cnn.png": "/static/media/dl_ai_cnn.78493309bf9fc74b931f.png",
+    "static/media/pca.png": "/static/media/pca.f21126baf26de24e5420.png",
+    "static/media/ibm_regression.png": "/static/media/ibm_regression.3ab0bab76bc196b7d5e4.png",
+    "static/media/thumbnail.jpg": "/static/media/thumbnail.178a0b90885c278dbd69.jpg",
+    "static/media/POLYA.otf": "/static/media/POLYA.b13aaec49e576fe89e9d.otf",
+    "static/media/certificate.svg": "/static/media/certificate.63d723eee2c84604e93c82e7284abf5b.svg",
+    "static/media/coding.svg": "/static/media/coding.6f97b96546be3a4f6400e32387002538.svg",
+    "static/media/contact_phone.svg": "/static/media/contact_phone.42958aa2994a0b7add13cac108c30361.svg",
+    "index.html": "/index.html",
+    "static/media/cottage.svg": "/static/media/cottage.28e19b65ed05f2baf50b03711471061f.svg",
+    "main.78029f78.css.map": "/static/css/main.78029f78.css.map",
+    "main.fa5517ef.js.map": "/static/js/main.fa5517ef.js.map",
+    "787.736d0d9f.chunk.js.map": "/static/js/787.736d0d9f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78029f78.css",
+    "static/js/main.fa5517ef.js"
+  ]
+}
