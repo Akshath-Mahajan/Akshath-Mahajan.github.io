@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.78029f78.css",
-    "main.js": "/static/js/main.fda0156d.js",
+    "main.js": "/static/js/main.1a56a198.js",
     "static/js/787.736d0d9f.chunk.js": "/static/js/787.736d0d9f.chunk.js",
     "static/media/maths_specialization.png": "/static/media/maths_specialization.4fe7898150353a129875.png",
     "static/media/dl_ai_introduction.png": "/static/media/dl_ai_introduction.8cd79112ce50ed4d263d.png",
@@ -19,19 +19,19 @@
     "static/media/dl_ai_cnn.png": "/static/media/dl_ai_cnn.78493309bf9fc74b931f.png",
     "static/media/pca.png": "/static/media/pca.f21126baf26de24e5420.png",
     "static/media/ibm_regression.png": "/static/media/ibm_regression.3ab0bab76bc196b7d5e4.png",
-    "static/media/thumbnail.jpg": "/static/media/thumbnail.178a0b90885c278dbd69.jpg",
     "static/media/POLYA.otf": "/static/media/POLYA.b13aaec49e576fe89e9d.otf",
+    "static/media/thumbnail.jpg": "/static/media/thumbnail.7687831150d008a8d99c.jpg",
     "static/media/certificate.svg": "/static/media/certificate.63d723eee2c84604e93c82e7284abf5b.svg",
     "static/media/coding.svg": "/static/media/coding.6f97b96546be3a4f6400e32387002538.svg",
     "static/media/contact_phone.svg": "/static/media/contact_phone.42958aa2994a0b7add13cac108c30361.svg",
     "index.html": "/index.html",
     "static/media/cottage.svg": "/static/media/cottage.28e19b65ed05f2baf50b03711471061f.svg",
     "main.78029f78.css.map": "/static/css/main.78029f78.css.map",
-    "main.fda0156d.js.map": "/static/js/main.fda0156d.js.map",
+    "main.1a56a198.js.map": "/static/js/main.1a56a198.js.map",
     "787.736d0d9f.chunk.js.map": "/static/js/787.736d0d9f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.78029f78.css",
-    "static/js/main.fda0156d.js"
+    "static/js/main.1a56a198.js"
   ]
 }
