@@ -1,0 +1,26 @@
+{% assign title = post.title | markdownify | strip_html %}
+<div class="archive__item" style="font-size: 0.7rem;">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+
+    <h2 class="archive__item-title" itemprop="headline" style="font-size: 1rem;">
+      <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+    </h2>
+
+    <p style="margin: 0.1rem 0 0.4rem;">
+      <strong>{{ post.role }}</strong>,
+      {% if post.link %}
+        <a href="{{ post.link }}" target="_blank" rel="noopener noreferrer">
+          {{ post.organization }}
+        </a>
+      {% else %}
+        {{ post.organization }}
+      {% endif %}
+      — <em>{{ post.location }}</em><br />
+      <small>{{ post.date | date: "%b %Y" }} — {% if post.end_date %}{{ post.end_date | date: "%b %Y" }}{% else %}Present{% endif %}</small>
+    </p>
+
+    {% if post.excerpt %}
+      <p class="archive__item-excerpt">{{ post.excerpt }}</p>
+    {% endif %}
+  </article>
+</div>
