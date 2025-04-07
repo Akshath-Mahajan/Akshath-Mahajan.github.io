@@ -5,6 +5,7 @@ on:
   push:
     branches:
       - main  # or whatever your default branch is
+remote_theme: mmistakes/minimal-mistakes
 
 permissions:
   contents: write
