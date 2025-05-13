@@ -5,7 +5,7 @@ permalink: /experience/ai-researcher
 excerpt: 'Undergraduate AI Researcher at DJSCE working on image super-resolution, cyclone forecasting, and hierarchical classification'
 date: 2021-01-01
 end_date: 2023-05-31
-role: "AI Researcher"
+role: "Undergraduate Researcher"
 organization: "Dwarkadas J. Sanghvi College of Engineering"
 location: "Mumbai"
 ---

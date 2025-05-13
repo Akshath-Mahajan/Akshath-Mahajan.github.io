@@ -3,7 +3,7 @@ title: "K12 Machine Learning Instructor"
 collection: experience
 permalink: /experience/k12-ml-instructor
 excerpt: "Designed and taught NYU's K-12 ML summer curriculum to 70+ students, combining theory with hands-on coding and deployment."
-date: 2024-06-01
+date: 2024-05-15
 end_date: 2024-08-31
 role: "K12 Machine Learning Instructor"
 organization: "New York University"
