@@ -1,7 +1,7 @@
 ---
 title: "Optimizing BERT Beyond FlashAttention"
 collection: projects
-permalink: /projects/low-resource-super-resolution
+permalink: /projects/optimizing-bert-beyond-flashattention
 excerpt: "GPU optimizations for BERT-like models using Kernel Fusion"
 date: 2025-02-01
 end_date: 2025-04-01
